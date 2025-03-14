@@ -1,4 +1,4 @@
-// 1 
+// 1 - topshiriq
 
 // function example(a, b, c) {
 //     if ( a <= 0 || b <= 0 || c <= 0) {
@@ -9,7 +9,9 @@
 // example(1, 2, 3);
 
 
-// 2
+
+
+// 2 - topshiriq
 
 // function example(randNumber){
 //     switch (randNumber){
@@ -43,7 +45,8 @@
 
 
 
-// 3
+
+// 3 - topshiriq
 
 
 // function isKabisa(year){
@@ -60,7 +63,7 @@
 
 
 
-// 4
+// 4 - topshiriq
 
 // function example(n){
 //     let expected = '' + n;
@@ -81,7 +84,7 @@
 
 
 
-// 5 
+// 5 - topshiriq
 
 
 // function example(a, b, c){
@@ -97,7 +100,8 @@
 
 
 
-// 6
+
+// 6 - topshiriq
 
 // function example(a){
 //     result = 0;
@@ -112,7 +116,8 @@
 
 
 
-// 7
+
+// 7 - topshiriq
 
 // function example(randNumber){
 //     let myExpected = [1];
@@ -134,7 +139,9 @@
 // console.log(respon);
 
 
-// 8 
+
+
+// 8 - topshiriq
 
 
 // function example(n){
@@ -147,7 +154,8 @@
 
 
 
-// 9
+
+// 9 - topshiriq
 
 // function example(arr){
 //     let copyarr = [...arr];
@@ -159,7 +167,8 @@
 // console.log(respon);
 
 
-// 10
+
+// 10 - topshiriq
 
 // function example(a){
 //     let result = 0;
@@ -173,7 +182,7 @@
 // console.log(respon);
 
 
-// yokida matematika 
+// yokida matematika jihatdan
 
 // function example(n){
 //     return (n * (n + 1)) / 2;
@@ -182,7 +191,10 @@
 // console.log(example(10));
 
 
-// 11 
+
+
+
+// 11 - topshiriq
 
 // function example(arr){
 //     let copyarr = [...arr];
@@ -192,7 +204,9 @@
 // console.log(example([1, 2, 3, 2, 4]));
 
 
-// 12
+
+
+// 12 - topshiriq
 
 // function example(n, arr) {
 //     total = 0;
@@ -207,7 +221,9 @@
 // console.log(example(1, [1, 2, 3, 2, 4, 1, 1]));
 
 
-// 13
+
+
+// 13 - topshiriq
 
 //  function example(n, arr){
 //     for (let i = 0; i < arr.length; i++){
@@ -223,7 +239,9 @@
 //  console.log(example(6, [1, 3,  2, 3]));
 
 
-// 14
+
+
+// 14 - topshiriq
 
 
 // function example(numbers){
@@ -234,7 +252,8 @@
 
 
 
-// 15 
+
+// 15 - topshiriq
 
 // function example(numbers){
 //     numbers.sort();
